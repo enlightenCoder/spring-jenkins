@@ -12,7 +12,7 @@ class DemoApplicationTest {
     @Test
     public void contextLoads() {
         logger.info("Test case executed");
-        logger.info("Test case executed second log statetemnt");
+        logger.info("Test case executed second log statetemnt....");
         assertEquals(true, true);
     }
 

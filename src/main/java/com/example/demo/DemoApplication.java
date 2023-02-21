@@ -20,6 +20,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 
 		logger.info("Application stated....");
+		logger.info("Test case executed second log statetemnt....");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
